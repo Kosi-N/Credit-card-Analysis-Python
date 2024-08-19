@@ -24,7 +24,7 @@ from sklearn.preprocessing import StandardScaler
 # In[2]:
 
 
-data = pd.read_csv("C:\\Users\\TOJMARK LTD\\CREDITCARDgeneral.csv")
+data = pd.read_csv("C:\\Users\\Kosi N\\CREDITCARDgeneral.csv")
 data.head()
 
 
